@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">जुताई</string>
+    <string name="jutai">जुताई</string>
+    <string name="desc">कृषि उपकरण उधार और किराये की सेवा</string>
+    <string name="equipment_rent_msg">किराए पर उपकरण लें, इसका उपयोग करें और इसे मालिक को वापस करें</string>
+    <string name="equipment_own_msg">अपने आप को मालिक के रूप में पंजीकृत करें, अपने उपकरण जोड़ें और उन्हें किसानों को किराए पर दें!</string>
+    <string name="register_button">पंजीकरण करें</string>
+    <string name="login_button">लॉगिन</string>
+    <string name="get_started">शुरू करें</string>
+
+</resources>

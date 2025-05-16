@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_sort_category"
+        android:title="Sort by Category">
+        <menu>
+            <item
+                android:id="@+id/action_category_tractor"
+                android:title="Tractor" />
+            <item
+                android:id="@+id/action_category_implement"
+                android:title="Implement" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_sort_price"
+        android:title="Sort by Price">
+        <menu>
+            <item
+                android:id="@+id/action_price_low_to_high"
+                android:title="Low to High" />
+            <item
+                android:id="@+id/action_price_high_to_low"
+                android:title="High to Low" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_filter_price"
+        android:title="Filter by Price" />
+</menu>

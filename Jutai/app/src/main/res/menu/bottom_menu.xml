@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/navHome"
+    android:icon="@drawable/baseline_home_24"
+    android:title="Home"/>
+    <item
+    android:id="@+id/navViewSection"
+    android:icon="@drawable/baseline_agriculture_24"
+    android:title="Equipemnts/Tractors"/>
+
+    <item
+        android:id="@+id/navAddNew"
+        android:title ="Add New"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/navRecent"
+        android:title="Purchase History"
+        android:icon="@drawable/baseline_access_time_24"
+        />
+    <item
+        android:id="@+id/navUserProfile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="My Profile"/>
+
+
+</menu>
